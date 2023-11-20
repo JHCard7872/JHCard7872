@@ -19,7 +19,7 @@
     <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=flat-square&logo=c%2B%2B&logoColor=white"/>
     <img src="https://img.shields.io/badge/c%23-%23239120.svg?style=flat-square&logo=c-sharp&logoColor=white"/><br/>
     <img src="https://img.shields.io/badge/flask-000000?style=flat-square&logo=flask&logoColor=white">
-  <img src="https://img.shields.io/badge/spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white"> 
+    <img src="https://img.shields.io/badge/spring-6DB33F?style=flat-square&logo=spring&logoColor=white"> 
     <img src="https://img.shields.io/badge/unity-%23000000.svg?style=flat-square&logo=unity&logoColor=white"/>
     <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=TensorFlow&logoColor=white"><br/>
     <img src="https://img.shields.io/badge/IntelliJ IDEA-000000?style=flat-square&logo=intellij-idea&logoColor=white">
